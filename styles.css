@@ -1,1 +1,23 @@
-/* css styles */
+/* CSS for navbar logo and text alignment */
+.navbar-nav {
+  display: flex;
+  align-items: center; /* Vertically center the items */
+}
+
+/* Style the logo image */
+.navbar-logo {
+  height: 30px;  /* Size the logo as desired */
+  width: auto;  /* Maintain the aspect ratio */
+  margin-right: 10px;  /* Space between logo and text */
+}
+
+/* Style the navbar items */
+.navbar-nav a {
+  font-size: 16px;  /* You can adjust font size here */
+  text-decoration: none;  /* Remove underline if any */
+  color: #333;  /* Customize text color */
+}
+
+.navbar-nav a:hover {
+  color: #007bff;  /* Hover effect color */
+}

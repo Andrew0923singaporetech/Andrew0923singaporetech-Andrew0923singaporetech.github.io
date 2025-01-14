@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Andrew’s Website – This is me</title>
+<title>Final Year Project: Smart Obstacle Avoiding Robot – This is me</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -89,17 +89,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text"><img src="path/to/your-logo.jpg" alt="Logo" class="navbar-logo"> This is me</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.html"> 
+    <a class="nav-link active" href="./project.html" aria-current="page"> 
 <span class="menu-text">Project</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./swimming.qmd"> 
+<span class="menu-text">Swimming</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -116,10 +122,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#welcome-to-my-website" id="toc-welcome-to-my-website" class="nav-link active" data-scroll-target="#welcome-to-my-website">Welcome to My Website</a>
+  <li><a href="#smart-obstacle-avoiding-robot" id="toc-smart-obstacle-avoiding-robot" class="nav-link active" data-scroll-target="#smart-obstacle-avoiding-robot">Smart Obstacle Avoiding Robot</a>
   <ul class="collapse">
-  <li><a href="#about-me" id="toc-about-me" class="nav-link" data-scroll-target="#about-me">About Me</a></li>
-  <li><a href="#navigation" id="toc-navigation" class="nav-link" data-scroll-target="#navigation">Navigation</a></li>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#problem-statement" id="toc-problem-statement" class="nav-link" data-scroll-target="#problem-statement">Problem Statement</a></li>
+  <li><a href="#technologies-used" id="toc-technologies-used" class="nav-link" data-scroll-target="#technologies-used">Technologies Used</a></li>
+  <li><a href="#project-components-and-design" id="toc-project-components-and-design" class="nav-link" data-scroll-target="#project-components-and-design">Project Components and Design</a></li>
+  <li><a href="#my-role-and-contributions" id="toc-my-role-and-contributions" class="nav-link" data-scroll-target="#my-role-and-contributions">My Role and Contributions</a></li>
+  <li><a href="#challenges-and-solutions" id="toc-challenges-and-solutions" class="nav-link" data-scroll-target="#challenges-and-solutions">Challenges and Solutions</a></li>
+  <li><a href="#project-outcomes" id="toc-project-outcomes" class="nav-link" data-scroll-target="#project-outcomes">Project Outcomes</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  <li><a href="#acknowledgments" id="toc-acknowledgments" class="nav-link" data-scroll-target="#acknowledgments">Acknowledgments</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -129,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Andrew’s Website</h1>
+<h1 class="title">Final Year Project: Smart Obstacle Avoiding Robot</h1>
 </div>
 
 
@@ -146,22 +159,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome-to-my-website" class="level1">
-<h1>Welcome to My Website</h1>
-<p>This is the homepage of my personal website. I am Andrew, and I am excited to share some of my projects and experiences with you!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Myphoto.jpg" class="img-fluid figure-img" width="300"></p>
-<figcaption>My Photo</figcaption>
-</figure>
-</div>
-<section id="about-me" class="level2">
-<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<p>I am passionate about technology, software development, and exploring new ideas. In my free time, I enjoy photography, traveling, and working on personal projects.</p>
+<section id="smart-obstacle-avoiding-robot" class="level1">
+<h1>Smart Obstacle Avoiding Robot</h1>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>The purpose of our project is to create a <strong>Smart Obstacle Avoiding Robot</strong> which can be given instructions to move to specific locations. This robot will be able to detect its 2D surroundings and capture images from the front view. The system is designed to be autonomous, with sensors enabling obstacle detection and a camera for capturing images.</p>
 </section>
-<section id="navigation" class="level2">
-<h2 class="anchored" data-anchor-id="navigation">Navigation</h2>
-<p>Feel free to explore the other pages to learn more about my work and experiences.</p>
+<section id="problem-statement" class="level2">
+<h2 class="anchored" data-anchor-id="problem-statement">Problem Statement</h2>
+<p>In the realm of robotics, one significant challenge is ensuring that robots can navigate autonomously while avoiding obstacles in real-time. This project aims to solve this problem by developing a robot capable of moving through a space while avoiding obstacles and capturing images to analyze its surroundings.</p>
+</section>
+<section id="technologies-used" class="level2">
+<h2 class="anchored" data-anchor-id="technologies-used">Technologies Used</h2>
+<p>The project involves the use of various technologies and tools, including: - <strong>Single Board Computer</strong>: Raspberry Pi - <strong>Robot Operating System (ROS)</strong>: An open-source robotics middleware suite - <strong>Operating System</strong>: Ubuntu MATE for Raspberry Pi - <strong>Design Software</strong>: Designspark to design the robot base and gear motor holder - <strong>Components</strong>: Motors, sensors, and cameras for obstacle detection and image capturing</p>
+</section>
+<section id="project-components-and-design" class="level2">
+<h2 class="anchored" data-anchor-id="project-components-and-design">Project Components and Design</h2>
+<p>The project involves designing and building the robot base from scratch. Key aspects include: - <strong>Robot Base</strong>: The design and selection of materials that provide stability and support for the robot’s sensors and motor system. - <strong>Motor and Gear Holder</strong>: Using the appropriate motor holders to ensure movement precision. - <strong>Sensor Integration</strong>: Integrating sensors that will allow the robot to detect obstacles and navigate through spaces. - <strong>Camera for Image Capture</strong>: A front-facing camera to capture and process images, helping the robot understand its environment.</p>
+<p><img src="robot big.PNG" class="img-fluid" alt="Robot Base Design"> <!-- Add an image of the robot base design --></p>
+</section>
+<section id="my-role-and-contributions" class="level2">
+<h2 class="anchored" data-anchor-id="my-role-and-contributions">My Role and Contributions</h2>
+<p>I was involved in the following aspects of the project: - <strong>System Integration</strong>: Working with the team to integrate ROS with Raspberry Pi and the sensors. - <strong>Robot Base Design</strong>: Contributing to the design of the robot base, selecting materials, and ensuring stability. - <strong>Obstacle Avoidance Algorithm</strong>: Implementing the obstacle avoidance logic using sensor data.</p>
+</section>
+<section id="challenges-and-solutions" class="level2">
+<h2 class="anchored" data-anchor-id="challenges-and-solutions">Challenges and Solutions</h2>
+<p>During the project, several challenges arose, including: - <strong>Challenge 1</strong>: <strong>Sensor Calibration</strong>: The sensors initially provided inaccurate data for obstacle detection. This was solved by calibrating the sensors and optimizing the code. - <strong>Challenge 2</strong>: <strong>Motor Control</strong>: Controlling the motors in a precise manner for accurate movement was tricky. This was addressed by fine-tuning the motor drivers and implementing smoother control algorithms.</p>
+</section>
+<section id="project-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="project-outcomes">Project Outcomes</h2>
+<p>The project resulted in the following outcomes: - A fully functional robot capable of autonomous navigation and obstacle avoidance. - Integration of a camera system that allows the robot to capture images of its surroundings. - A report detailing the entire process, from design to implementation.</p>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>This project provided valuable experience in working with robotics technologies and designing an autonomous system. The lessons learned about system integration, sensor calibration, and motor control have enhanced my problem-solving skills. I’m proud of the work completed and excited about its potential in real-world applications.</p>
+</section>
+<section id="acknowledgments" class="level2">
+<h2 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h2>
+<p>I would like to thank [Your Mentor or Team Members] for their guidance and contributions throughout this project.</p>
 
 
 </section>

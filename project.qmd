@@ -45,10 +45,6 @@ The project resulted in the following outcomes:
 - Integration of a camera system that allows the robot to capture images of its surroundings.
 - A report detailing the entire process, from design to implementation.
 
-## Demo and Code
-You can view the project code and demo via the following links:
-- **[GitHub Repository](https://github.com/yourusername/smart-obstacle-avoiding-robot)** (Code)
-- **[Project Demo Video](https://your-video-demo-link.com)** (Live Demo or Video)
 
 ## Conclusion
 This project provided valuable experience in working with robotics technologies and designing an autonomous system. The lessons learned about system integration, sensor calibration, and motor control have enhanced my problem-solving skills. I'm proud of the work completed and excited about its potential in real-world applications.

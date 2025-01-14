@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "This is me"
   navbar:
     left:
       - href: index.qmd
@@ -19,10 +20,4 @@ format:
       - brand
     css: styles.css
     toc: true
-    
-    project:
-  type: website
-  output-dir: docs
-
-
 
