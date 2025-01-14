@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Andrew’s Website",
     "section": "",
-    "text": "This is the homepage of my personal website. I am Andrew, and I am excited to share some of my projects and experiences with you!\n\n\n\nMy Photo\n\n\n\n\nI am passionate about technology, software development, and exploring new ideas. In my free time, I enjoy photography, traveling, and working on personal projects.\n\n\n\nFeel free to explore the other pages to learn more about my work and experiences."
+    "text": "This is the homepage of my personal website. I am Andrew, and I am excited to share some of my projects and experiences with you!\n\n\n\nMy Photo\n\n\n\n\nI am passionate about the fintech, software development, and exploring new ideas. In my free time, I enjoy photography, traveling, swimming and working on personal projects."
   },
   {
     "objectID": "about.html",
@@ -95,7 +95,7 @@
     "href": "index.html#about-me",
     "title": "Andrew’s Website",
     "section": "",
-    "text": "I am passionate about technology, software development, and exploring new ideas. In my free time, I enjoy photography, traveling, and working on personal projects."
+    "text": "I am passionate about the fintech, software development, and exploring new ideas. In my free time, I enjoy photography, traveling, swimming and working on personal projects."
   },
   {
     "objectID": "index.html#navigation",
@@ -436,6 +436,13 @@
   {
     "objectID": "reflection.html",
     "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "For this assessment, I utilized ChatGPT as the GenAI tool to help me structure and refine my website content. ChatGPT assisted me in drafting paragraphs, improving the clarity of my writing, and even troubleshooting coding issues related to Quarto and CSS. The AI was particularly helpful in generating content ideas and refining the flow of my project page. One of the biggest benefits of using GenAI was its ability to quickly suggest solutions and alternatives, which saved me a significant amount of time. However, one challenge I encountered was ensuring that the AI-generated text felt personal and aligned with my voice. While it can generate quality content, making it truly reflective of my personal experience and tone required some manual adjustments. Overall, GenAI was a useful tool for speeding up the process, but I still needed to ensure the content reflected my own thoughts and style."
+  },
+  {
+    "objectID": "docs/Reflection.html",
+    "href": "docs/Reflection.html",
     "title": "Reflection on the use of GenAI",
     "section": "",
     "text": "For this assessment, I utilized ChatGPT as the GenAI tool to help me refine my website content. ChatGPT assisted me in drafting paragraphs, improving the clarity of my writing, and even troubleshooting coding issues related to Quarto and CSS. The AI was particularly helpful in generating content ideas and refining the flow of my project page. One of the biggest benefits of using GenAI was its ability to quickly suggest solutions and alternatives, which saved me a significant amount of time. However, one challenge I encountered was ensuring that the AI-generated text felt personal and aligned with my voice. While it can generate quality content, making it truly reflective of my personal experience and tone required some manual adjustments. Overall, GenAI was a useful tool for speeding up the process, but I still needed to ensure the content reflected my own thoughts and style."
