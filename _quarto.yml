@@ -7,7 +7,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: Project
 
 format:
   html:
@@ -16,6 +19,10 @@ format:
       - brand
     css: styles.css
     toc: true
+    
+    project:
+  type: website
+  output-dir: docs
 
 
 
