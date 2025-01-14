@@ -8,12 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: project.qmd
         text: Project
       - href: reflection.qmd  # Add the reflection page here
         text: Reflection
+      - href: hobby.qmd  # Add the reflection page here
+        text: Hobby
+
 
 format:
   html:
