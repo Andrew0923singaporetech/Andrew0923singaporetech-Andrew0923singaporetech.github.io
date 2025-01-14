@@ -11,7 +11,7 @@ website:
         text: Project
       - href: hobby.qmd  # Add the reflection page here
         text: Hobby
-      - href: Reflection.qmd  # Add the reflection page here
+      - href: reflection.qmd  # Add the reflection page here
         text: Reflection
 
 
