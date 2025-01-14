@@ -7,9 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Project.qmd
+      - href: project.qmd
         text: Project
-      - href: Hobby.qmd  # Add the reflection page here
+      - href: hobby.qmd  # Add the reflection page here
         text: Hobby
       - href: Reflection.qmd  # Add the reflection page here
         text: Reflection
