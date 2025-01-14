@@ -3,17 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "This is me"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: project.qmd
         text: Project
-      - href: reflection.qmd  # Add the reflection page here
-        text: Reflection
       - href: hobby.qmd  # Add the reflection page here
         text: Hobby
+      - href: reflection.qmd  # Add the reflection page here
+        text: Reflection
 
 
 format:

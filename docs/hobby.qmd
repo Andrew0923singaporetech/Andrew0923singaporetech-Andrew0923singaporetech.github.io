@@ -3,6 +3,7 @@ title: "My Passion for Swimming"
 output: html_document
 ---
 
+# My Passion for Swimming
 
 Swimming has been a part of my life for many years, and it's more than just a sport to me – it's a way to challenge myself, stay healthy, and clear my mind. Whether it's a casual swim or an intense workout, swimming provides a unique combination of physical exertion and mental relaxation.
 
