@@ -1,6 +1,6 @@
 ---
 title: "Andrew's Website"
-format: html
+format: html_document
 ---
 
 # Welcome to My Website
