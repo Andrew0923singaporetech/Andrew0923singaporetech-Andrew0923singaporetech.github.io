@@ -446,5 +446,138 @@
     "title": "Reflection on the use of GenAI",
     "section": "",
     "text": "For this assessment, I utilized ChatGPT as the GenAI tool to help me refine my website content. ChatGPT assisted me in drafting paragraphs, improving the clarity of my writing, and even troubleshooting coding issues related to Quarto and CSS. The AI was particularly helpful in generating content ideas and refining the flow of my project page. One of the biggest benefits of using GenAI was its ability to quickly suggest solutions and alternatives, which saved me a significant amount of time. However, one challenge I encountered was ensuring that the AI-generated text felt personal and aligned with my voice. While it can generate quality content, making it truly reflective of my personal experience and tone required some manual adjustments. Overall, GenAI was a useful tool for speeding up the process, but I still needed to ensure the content reflected my own thoughts and style."
+  },
+  {
+    "objectID": "docs/Project.html",
+    "href": "docs/Project.html",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "The purpose of our project is to create a Smart Obstacle Avoiding Robot which can be given instructions to move to specific locations. This robot will be able to detect its 2D surroundings and capture images from the front view. The system is designed to be autonomous, with sensors enabling obstacle detection and a camera for capturing images.\n\n\n\nIn the realm of robotics, one significant challenge is ensuring that robots can navigate autonomously while avoiding obstacles in real-time. This project aims to solve this problem by developing a robot capable of moving through a space while avoiding obstacles and capturing images to analyze its surroundings.\n\n\n\nThe project involves the use of various technologies and tools, including: - Single Board Computer: Raspberry Pi - Robot Operating System (ROS): An open-source robotics middleware suite - Operating System: Ubuntu MATE for Raspberry Pi - Design Software: Designspark to design the robot base and gear motor holder - Components: Motors, sensors, and cameras for obstacle detection and image capturing\n\n\n\nThe project involves designing and building the robot base from scratch. Key aspects include: - Robot Base: The design and selection of materials that provide stability and support for the robot’s sensors and motor system. - Motor and Gear Holder: Using the appropriate motor holders to ensure movement precision. - Sensor Integration: Integrating sensors that will allow the robot to detect obstacles and navigate through spaces. - Camera for Image Capture: A front-facing camera to capture and process images, helping the robot understand its environment.\n \n\n\n\nI was involved in the following aspects of the project: - System Integration: Working with the team to integrate ROS with Raspberry Pi and the sensors. - Robot Base Design: Contributing to the design of the robot base, selecting materials, and ensuring stability. - Obstacle Avoidance Algorithm: Implementing the obstacle avoidance logic using sensor data.\n\n\n\nDuring the project, several challenges arose, including: - Challenge 1: Sensor Calibration: The sensors initially provided inaccurate data for obstacle detection. This was solved by calibrating the sensors and optimizing the code. - Challenge 2: Motor Control: Controlling the motors in a precise manner for accurate movement was tricky. This was addressed by fine-tuning the motor drivers and implementing smoother control algorithms.\n\n\n\nThe project resulted in the following outcomes: - A fully functional robot capable of autonomous navigation and obstacle avoidance. - Integration of a camera system that allows the robot to capture images of its surroundings. - A report detailing the entire process, from design to implementation.\n\n\n\nThis project provided valuable experience in working with robotics technologies and designing an autonomous system. The lessons learned about system integration, sensor calibration, and motor control have enhanced my problem-solving skills. I’m proud of the work completed and excited about its potential in real-world applications.\n\n\n\nI would like to thank [Your Mentor or Team Members] for their guidance and contributions throughout this project."
+  },
+  {
+    "objectID": "docs/Project.html#project-overview",
+    "href": "docs/Project.html#project-overview",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "The purpose of our project is to create a Smart Obstacle Avoiding Robot which can be given instructions to move to specific locations. This robot will be able to detect its 2D surroundings and capture images from the front view. The system is designed to be autonomous, with sensors enabling obstacle detection and a camera for capturing images."
+  },
+  {
+    "objectID": "docs/Project.html#problem-statement",
+    "href": "docs/Project.html#problem-statement",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "In the realm of robotics, one significant challenge is ensuring that robots can navigate autonomously while avoiding obstacles in real-time. This project aims to solve this problem by developing a robot capable of moving through a space while avoiding obstacles and capturing images to analyze its surroundings."
+  },
+  {
+    "objectID": "docs/Project.html#technologies-used",
+    "href": "docs/Project.html#technologies-used",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "The project involves the use of various technologies and tools, including: - Single Board Computer: Raspberry Pi - Robot Operating System (ROS): An open-source robotics middleware suite - Operating System: Ubuntu MATE for Raspberry Pi - Design Software: Designspark to design the robot base and gear motor holder - Components: Motors, sensors, and cameras for obstacle detection and image capturing"
+  },
+  {
+    "objectID": "docs/Project.html#project-components-and-design",
+    "href": "docs/Project.html#project-components-and-design",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "The project involves designing and building the robot base from scratch. Key aspects include: - Robot Base: The design and selection of materials that provide stability and support for the robot’s sensors and motor system. - Motor and Gear Holder: Using the appropriate motor holders to ensure movement precision. - Sensor Integration: Integrating sensors that will allow the robot to detect obstacles and navigate through spaces. - Camera for Image Capture: A front-facing camera to capture and process images, helping the robot understand its environment."
+  },
+  {
+    "objectID": "docs/Project.html#my-role-and-contributions",
+    "href": "docs/Project.html#my-role-and-contributions",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "I was involved in the following aspects of the project: - System Integration: Working with the team to integrate ROS with Raspberry Pi and the sensors. - Robot Base Design: Contributing to the design of the robot base, selecting materials, and ensuring stability. - Obstacle Avoidance Algorithm: Implementing the obstacle avoidance logic using sensor data."
+  },
+  {
+    "objectID": "docs/Project.html#challenges-and-solutions",
+    "href": "docs/Project.html#challenges-and-solutions",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "During the project, several challenges arose, including: - Challenge 1: Sensor Calibration: The sensors initially provided inaccurate data for obstacle detection. This was solved by calibrating the sensors and optimizing the code. - Challenge 2: Motor Control: Controlling the motors in a precise manner for accurate movement was tricky. This was addressed by fine-tuning the motor drivers and implementing smoother control algorithms."
+  },
+  {
+    "objectID": "docs/Project.html#project-outcomes",
+    "href": "docs/Project.html#project-outcomes",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "The project resulted in the following outcomes: - A fully functional robot capable of autonomous navigation and obstacle avoidance. - Integration of a camera system that allows the robot to capture images of its surroundings. - A report detailing the entire process, from design to implementation."
+  },
+  {
+    "objectID": "docs/Project.html#conclusion",
+    "href": "docs/Project.html#conclusion",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "This project provided valuable experience in working with robotics technologies and designing an autonomous system. The lessons learned about system integration, sensor calibration, and motor control have enhanced my problem-solving skills. I’m proud of the work completed and excited about its potential in real-world applications."
+  },
+  {
+    "objectID": "docs/Project.html#acknowledgments",
+    "href": "docs/Project.html#acknowledgments",
+    "title": "Final Year Project: Smart Obstacle Avoiding Robot",
+    "section": "",
+    "text": "I would like to thank [Your Mentor or Team Members] for their guidance and contributions throughout this project."
+  },
+  {
+    "objectID": "docs/Hobby.html",
+    "href": "docs/Hobby.html",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "Swimming has been a part of my life for many years, and it’s more than just a sport to me – it’s a way to challenge myself, stay healthy, and clear my mind. Whether it’s a casual swim or an intense workout, swimming provides a unique combination of physical exertion and mental relaxation.\n\n\nI was introduced to swimming at a young age, and over the years, it has become a personal journey of improvement and perseverance. Initially, I started with basic swimming techniques, but over time, I progressed to more advanced strokes like freestyle, breaststroke, and butterfly. The more I swam, the more I realized how swimming could build both physical strength and mental resilience.\n\n\n\nFull-Body Workout: Swimming engages almost every muscle in the body, making it one of the best full-body workouts.\nMental Clarity: The rhythmic movements of swimming help me focus and clear my mind, allowing me to relax and reduce stress.\nEndurance Building: Swimming has significantly improved my cardiovascular endurance, allowing me to push my limits and challenge myself in different ways.\n\n\n\n\n\nThere are many reasons why swimming is one of the most popular forms of exercise around the world: - Low-Impact Exercise: Since swimming is gentle on the joints, it’s an ideal form of exercise for people of all ages and fitness levels. - Improved Cardiovascular Health: It increases heart rate and helps with better circulation, promoting overall heart health. - Stress Relief: The water’s resistance combined with deep breathing makes swimming an excellent way to release stress.\n\n\nOne of the most significant personal benefits I’ve experienced from swimming is its ability to help with back issues. I have disc degeneration disease, a condition that causes pain and discomfort in my lower back. Swimming provides gentle resistance and buoyancy, which reduces the pressure on my spine and helps to relieve back pain. The low-impact nature of the water allows me to exercise without exacerbating my condition, and over time, I’ve found that swimming strengthens the muscles around my back, offering long-term relief.\nIn addition, swimming has played a key role in helping me cope with insomnia. On days when I struggle to sleep, swimming helps relax my body and mind, promoting better sleep at night. The rhythm of the strokes, combined with controlled breathing, serves as a form of mindfulness, calming my thoughts and making it easier to fall asleep.\n\n\n\n\nOver the years, I’ve developed a structured routine that helps me maintain my fitness and improve my technique: - Warm-up: Light stretches and a few easy laps to get the body moving. - Main Set: A mix of different strokes and intervals to improve endurance, strength, and speed. - Cool Down: Slow, relaxed laps to help my muscles recover.\nI also incorporate drills to focus on technique improvement, such as: - Breathing Drills: To improve lung capacity and stroke efficiency. - Kickboard Drills: To strengthen my legs and improve my kicking technique.\n\n\n\nOne of the things that make swimming even more enjoyable for me is the time of day when I choose to swim. I often prefer swimming at night, when the world around me is calm and peaceful. The water feels cooler, the pool is less crowded, and it’s a perfect time for quiet reflection. The serenity of night swimming gives me a sense of solitude and freedom, making it an ideal time to clear my mind, relax, and forget about the stresses of the day.\nNight swimming has become a vital part of my routine, especially since it aligns with my need to decompress before heading to bed. It’s during these late-night swims that I find solace, calm my body for sleep, and relieve any physical tension from the day.\n \n\n\n\nAlthough swimming is primarily a personal passion, I’ve also participated in a few local competitions. These experiences taught me how to handle pressure, improve my performance under timed conditions, and build a competitive spirit.\n\n\n\nOne person who has always inspired me in my swimming journey is Michael Phelps, the most decorated Olympian of all time. His dedication to the sport, mental toughness, and relentless pursuit of excellence have always motivated me to push my limits in the pool.\n \nMichael Phelps’ story of overcoming obstacles and achieving greatness despite his struggles resonates with me. His ability to stay focused on his goals and maintain consistency in his training has always been an inspiration to me, especially during times when swimming feels challenging.\n\n\n\nSwimming is not just about physical fitness for me; it’s a way to escape from daily pressures, focus on personal growth, and set new goals. Whether it’s conquering a personal best time or simply enjoying the freedom of the water, swimming allows me to connect with myself and nature in a way that no other activity can match. Additionally, its therapeutic effects on my back and mental health have made it an essential part of my daily routine.\n\n\n\nThrough swimming, I have learned valuable lessons in discipline, perseverance, and self-improvement. It has become a cornerstone of my fitness routine and a passion that continues to shape my life in meaningful ways. Swimming not only helps me maintain physical health but also plays an integral role in managing my back condition and improving my sleep.\n\nIf you’re thinking of taking up swimming, I highly encourage you to start. It doesn’t matter if you’re a beginner or a seasoned swimmer – every swim session brings an opportunity to improve and push yourself further. And if you can, try swimming at night – the quiet, peaceful environment makes it an unforgettable experience."
+  },
+  {
+    "objectID": "docs/Hobby.html#how-i-started-swimming",
+    "href": "docs/Hobby.html#how-i-started-swimming",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "I was introduced to swimming at a young age, and over the years, it has become a personal journey of improvement and perseverance. Initially, I started with basic swimming techniques, but over time, I progressed to more advanced strokes like freestyle, breaststroke, and butterfly. The more I swam, the more I realized how swimming could build both physical strength and mental resilience.\n\n\n\nFull-Body Workout: Swimming engages almost every muscle in the body, making it one of the best full-body workouts.\nMental Clarity: The rhythmic movements of swimming help me focus and clear my mind, allowing me to relax and reduce stress.\nEndurance Building: Swimming has significantly improved my cardiovascular endurance, allowing me to push my limits and challenge myself in different ways."
+  },
+  {
+    "objectID": "docs/Hobby.html#the-benefits-of-swimming",
+    "href": "docs/Hobby.html#the-benefits-of-swimming",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "There are many reasons why swimming is one of the most popular forms of exercise around the world: - Low-Impact Exercise: Since swimming is gentle on the joints, it’s an ideal form of exercise for people of all ages and fitness levels. - Improved Cardiovascular Health: It increases heart rate and helps with better circulation, promoting overall heart health. - Stress Relief: The water’s resistance combined with deep breathing makes swimming an excellent way to release stress.\n\n\nOne of the most significant personal benefits I’ve experienced from swimming is its ability to help with back issues. I have disc degeneration disease, a condition that causes pain and discomfort in my lower back. Swimming provides gentle resistance and buoyancy, which reduces the pressure on my spine and helps to relieve back pain. The low-impact nature of the water allows me to exercise without exacerbating my condition, and over time, I’ve found that swimming strengthens the muscles around my back, offering long-term relief.\nIn addition, swimming has played a key role in helping me cope with insomnia. On days when I struggle to sleep, swimming helps relax my body and mind, promoting better sleep at night. The rhythm of the strokes, combined with controlled breathing, serves as a form of mindfulness, calming my thoughts and making it easier to fall asleep."
+  },
+  {
+    "objectID": "docs/Hobby.html#my-swimming-routine",
+    "href": "docs/Hobby.html#my-swimming-routine",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "Over the years, I’ve developed a structured routine that helps me maintain my fitness and improve my technique: - Warm-up: Light stretches and a few easy laps to get the body moving. - Main Set: A mix of different strokes and intervals to improve endurance, strength, and speed. - Cool Down: Slow, relaxed laps to help my muscles recover.\nI also incorporate drills to focus on technique improvement, such as: - Breathing Drills: To improve lung capacity and stroke efficiency. - Kickboard Drills: To strengthen my legs and improve my kicking technique."
+  },
+  {
+    "objectID": "docs/Hobby.html#swimming-at-night",
+    "href": "docs/Hobby.html#swimming-at-night",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "One of the things that make swimming even more enjoyable for me is the time of day when I choose to swim. I often prefer swimming at night, when the world around me is calm and peaceful. The water feels cooler, the pool is less crowded, and it’s a perfect time for quiet reflection. The serenity of night swimming gives me a sense of solitude and freedom, making it an ideal time to clear my mind, relax, and forget about the stresses of the day.\nNight swimming has become a vital part of my routine, especially since it aligns with my need to decompress before heading to bed. It’s during these late-night swims that I find solace, calm my body for sleep, and relieve any physical tension from the day."
+  },
+  {
+    "objectID": "docs/Hobby.html#swimming-competitions-and-achievements",
+    "href": "docs/Hobby.html#swimming-competitions-and-achievements",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "Although swimming is primarily a personal passion, I’ve also participated in a few local competitions. These experiences taught me how to handle pressure, improve my performance under timed conditions, and build a competitive spirit."
+  },
+  {
+    "objectID": "docs/Hobby.html#michael-phelps-my-idol",
+    "href": "docs/Hobby.html#michael-phelps-my-idol",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "One person who has always inspired me in my swimming journey is Michael Phelps, the most decorated Olympian of all time. His dedication to the sport, mental toughness, and relentless pursuit of excellence have always motivated me to push my limits in the pool.\n \nMichael Phelps’ story of overcoming obstacles and achieving greatness despite his struggles resonates with me. His ability to stay focused on his goals and maintain consistency in his training has always been an inspiration to me, especially during times when swimming feels challenging."
+  },
+  {
+    "objectID": "docs/Hobby.html#why-swimming-is-important-to-me",
+    "href": "docs/Hobby.html#why-swimming-is-important-to-me",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "Swimming is not just about physical fitness for me; it’s a way to escape from daily pressures, focus on personal growth, and set new goals. Whether it’s conquering a personal best time or simply enjoying the freedom of the water, swimming allows me to connect with myself and nature in a way that no other activity can match. Additionally, its therapeutic effects on my back and mental health have made it an essential part of my daily routine."
+  },
+  {
+    "objectID": "docs/Hobby.html#conclusion",
+    "href": "docs/Hobby.html#conclusion",
+    "title": "My Passion for Swimming",
+    "section": "",
+    "text": "Through swimming, I have learned valuable lessons in discipline, perseverance, and self-improvement. It has become a cornerstone of my fitness routine and a passion that continues to shape my life in meaningful ways. Swimming not only helps me maintain physical health but also plays an integral role in managing my back condition and improving my sleep.\n\nIf you’re thinking of taking up swimming, I highly encourage you to start. It doesn’t matter if you’re a beginner or a seasoned swimmer – every swim session brings an opportunity to improve and push yourself further. And if you can, try swimming at night – the quiet, peaceful environment makes it an unforgettable experience."
   }
 ]
