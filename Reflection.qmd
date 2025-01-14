@@ -1,5 +1,6 @@
 ---
 title: "Reflection on the use of GenAI"
+output: html_document
 ---
 
 For this assessment, I utilized **ChatGPT** as the GenAI tool to help me structure and refine my website content. ChatGPT assisted me in drafting paragraphs, improving the clarity of my writing, and even troubleshooting coding issues related to Quarto and CSS. The AI was particularly helpful in generating content ideas and refining the flow of my project page. One of the biggest benefits of using GenAI was its ability to quickly suggest solutions and alternatives, which saved me a significant amount of time. However, one challenge I encountered was ensuring that the AI-generated text felt personal and aligned with my voice. While it can generate quality content, making it truly reflective of my personal experience and tone required some manual adjustments. Overall, GenAI was a useful tool for speeding up the process, but I still needed to ensure the content reflected my own thoughts and style.
