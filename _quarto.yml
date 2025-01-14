@@ -12,6 +12,8 @@ website:
         text: About
       - href: project.qmd
         text: Project
+      - href: reflection.qmd  # Add the reflection page here
+        text: Reflection
 
 format:
   html:
